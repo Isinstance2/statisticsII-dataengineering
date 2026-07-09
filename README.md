@@ -214,7 +214,7 @@ Posibles mejoras del proyecto:
 
 #  Autor
 
-**Proxy**
+**Joan Ml. Julian AKA PROXY**
 
 Estudiante de Ingeniería de Datos enfocado en:
 
